@@ -1,6 +1,6 @@
 ---
-name: Add Person To KidsFirst Slack
-about: Add a user to a Slack channel or organization
+name: [devops] Request KidsFirst Slack Access 
+about: Request access to KidsFirst Slack channel or organization
 title: ''
 labels: ''
 assignees: alubneuski, blackdenc
