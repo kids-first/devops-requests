@@ -10,7 +10,7 @@ assignees: blackdenc, alubneuski, allisonheath
 Please describe needed access to the best of your ability:
 First name: 
 Last name: 
-Google Email:
+Google Email (associated with your Flywheel account):
 Projects to grant access to:
 Level of access [Read-Only, Read-Write, Admin]: 
 Reason for access:
