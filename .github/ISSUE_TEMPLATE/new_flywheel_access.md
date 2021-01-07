@@ -1,6 +1,6 @@
 ---
-name: "[devops] Request Flywheel Access"
-about: Request access to flywheel application, aws resources etc.
+name: "[devops] Request New Flywheel Access"
+about: Request access to flywheel application
 title: ''
 labels: access, devops, flywheel
 assignees: blackdenc, alubneuski, allisonheath
@@ -8,7 +8,8 @@ assignees: blackdenc, alubneuski, allisonheath
 ---
 
 Please describe needed access to the best of your ability:
-Full name: 
+First name: 
+Last name: 
 Google Email:
 Institution:
 Position:
